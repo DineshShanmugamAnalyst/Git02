@@ -13,7 +13,8 @@ public class A extends BaseClass {
 		maximizeWindow();
 		
 	FbLogin f = new FbLogin();
-		
+System.out.println("DineshS");
+	
 		WebElement username = f.getUsername();
 		
 		
